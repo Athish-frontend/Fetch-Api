@@ -1,1 +1,1 @@
-# Fetch-Api
+This project demonstrates how to fetch user data from a public API using the JavaScript Fetch API. It displays user names, emails, and addresses on a webpage with basic styling and error handling. The webpage also includes a reload button to refetch the data. This is a beginner-friendly example to understand API interaction using JavaScript.
